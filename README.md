@@ -1,7 +1,7 @@
-# NLP_FINAL_Project
-AutoManual: Autonomous Manual Construction for LLM Agents
+# AutoManual: Autonomous Manual Construction for LLM Agents
 AutoManual is a framework that enables Large Language Model (LLM) agents to autonomously build their understanding of new environments through interaction, without requiring extensive human-crafted instructions or expert prompts.
 Traditional approaches to LLM agent deployment face a key limitation: they rely heavily on human intervention to customize agents for specific environments, which is time-consuming, requires expertise, and doesn't scale well. AutoManual addresses this challenge by enabling agents to build their own instruction manuals through environmental interaction.
+
 The AutoManual Framework operates in three stages:
 
 Building Stage: Two agents work collaboratively in an alternating process:
